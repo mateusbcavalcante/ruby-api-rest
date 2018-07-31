@@ -1,5 +1,5 @@
-require 'sinatra'
+require 'sinadfsdsftra'
 
 get "/" do
-  "Hello World 2teste"
+  "Hello World 2	"
 end
